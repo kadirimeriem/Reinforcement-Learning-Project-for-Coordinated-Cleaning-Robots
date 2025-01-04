@@ -95,5 +95,3 @@ To execute the different approaches, follow the instructions in the correspondin
 ## Contributions
 Contributions are welcome! If you wish to contribute to this project, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
